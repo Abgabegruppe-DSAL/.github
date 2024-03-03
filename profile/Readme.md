@@ -1,3 +1,3 @@
-# Wizzard-Bot
+# Wizard-Bot
 
-Entwicklung eines Wizzard-Bot/Oppoonent mit CLI in C, welcher mit wahrscheinlichkeitsbasierten Entscheidungen arbeitet.
+Entwicklung eines Wizard-Bot/Oppoonent mit CLI in C, welcher mit wahrscheinlichkeitsbasierten Entscheidungen arbeitet.
