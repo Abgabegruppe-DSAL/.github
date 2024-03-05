@@ -1,3 +1,3 @@
-# Wizard-Bot
+# DSAL - Abgabegruppe
 
-Entwicklung eines Wizard-Bot/Oppoonent mit CLI in C, welcher mit wahrscheinlichkeitsbasierten Entscheidungen arbeitet.
+Projekte und Hausaufgaben im Rahmen des Modules Datensturkturen und Algorithmen in Informatik and der RWTH Aachen.
